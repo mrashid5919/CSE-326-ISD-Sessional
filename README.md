@@ -11,3 +11,5 @@ Team Members:
 - 1905103 - Mayesha Rashid
 - 1905104 - Kazi Istiak Uddin Toriqe
 - 1905119 - Saha Kuljit Shantanu
+
+Demo Repo Link - https://github.com/mrashid5919/Lab_Inventory_Management_System
